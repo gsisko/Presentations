@@ -166,11 +166,11 @@ Communication Methods:
 
 ---
 
-# How do we develop Modern Software?
+# How do we Develope Modern Software?
 
 <!--v-->
 
-# Pick a programming Language
+## Pick a programming Language
 
 | ![Python Logo](assets/markdown-img-paste-20190119173231961.png) | ![JavaScript Logo](assets/markdown-img-paste-20190119173534494.png) | ![C++ Logo](assets/markdown-img-paste-20190119173609722.png) |
 | --------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
