@@ -174,4 +174,71 @@ Communication Methods:
 
 | ![Python Logo](assets/markdown-img-paste-20190119173231961.png) | ![JavaScript Logo](assets/markdown-img-paste-20190119173534494.png) | ![C++ Logo](assets/markdown-img-paste-20190119173609722.png) |
 | --------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ |
-|                                                                 |                                                                     |                                                              |
+
+<!--v-->
+
+## What this accomplishes
+
+- Different programming languages are suitable for different applications
+- We can choose the lanuage most appropriate for our project
+-
+
+<!--v-->
+
+## Not Enough for Modern Software Development
+- Doesn't help us re-use software libraries that aren't Standard
+- Doesn't help us build, test, or distribute the software we develop
+- Doesn't (always) Help us port code to multitple platforms
+- Maybe we want to use more than one language...
+<!--v-->
+
+## Pick a Software Ecosystem
+- Package manager
+- Package Repositories, Standard Universes
+- Standardized Development Tools and libraries
+
+<!--v-->
+
+# Examples
+
+<!--v-->
+
+# How do I Build a Website?
+
+<!--v-->
+
+## I could use Node JS, and the NPM package Manger
+
+![Node.js Logo](assets/markdown-img-paste-20190119180927123.png)
+
+![NPM Logo](assets/markdown-img-paste-20190119180941123.png)
+
+<!--v-->
+
+# I want to make a Data Science Application
+
+<!--v-->
+
+# I can use the Anaconda Distributtion of Python
+
+![Anaconda Logo](assets/markdown-img-paste-20190119181547977.png)
+
+![Pandas logo](assets/markdown-img-paste-20190119181641903.png)
+
+![Tensorflow + Scikit Learn Logo](assets/markdown-img-paste-20190119181805186.png)
+
+<!--v-->
+
+# Let's go Broader
+
+<!--v-->
+
+# I want to Develop Software and administarte a Computer
+
+<!--v-->
+
+# I can Use A GNU/Linux Distribution, and Associated Tools
+
+![](assets/markdown-img-paste-20190119182214275.png)
+![](assets/markdown-img-paste-20190119182250989.png)
+![](assets/markdown-img-paste-20190119182341837.png)
