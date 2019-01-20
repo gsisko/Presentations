@@ -166,7 +166,7 @@ Communication Methods:
 
 ---
 
-# How do we Develope Modern Software?
+# How do we Develop Modern Software?
 
 <!--v-->
 
